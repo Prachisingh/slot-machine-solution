@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SlotMachin
+namespace SlotMachine
 {
     internal class WinData
     {
